@@ -1,0 +1,18 @@
+:root {
+	--russViolet: #4e0250;
+	--lilac: #bd93bd;
+	--camBlue: #7daa92;
+	--bPink: #f05365;
+	--selYellow: #fabc2a;
+}
+
+.violetBG {
+	background-color: var(--russViolet);
+}
+.violetText {
+	color: var(--russViolet);
+}
+
+.text-center {
+	text-align: center;
+}
